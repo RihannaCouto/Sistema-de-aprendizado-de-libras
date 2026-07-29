@@ -1,1 +1,0 @@
-# Sistema-de-aprendizado-de-libras
