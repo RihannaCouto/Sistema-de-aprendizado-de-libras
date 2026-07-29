@@ -15,6 +15,21 @@
         <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
+
+        <!-- Fonte para o Slogan adquirida do Google Fonts -->
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Audiowide&display=swap" rel="stylesheet">
+
+        <!-- Classe para estilização da fonte do Slogan -->
+        <style>
+            .audiowide-regular {
+                font-family: "Audiowide", sans-serif;
+                font-weight: 400;
+                font-style: normal;
+            }
+        </style>
+        
     </head>
     <body id="page-top">
         <!-- Navigation-->
